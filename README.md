@@ -31,9 +31,9 @@ pip install -r requirements.txt
 uvicorn security_check_service:app --reload
 访问应用界面：<http://127.0.0.1:8000>
 
-API 接口
-健康检查 (/health)
-检查服务是否运行正常。
+您也可以直接访问https://sec.gridgpt.dev来使用API
+
+
 ```
 
 ## API 接口
