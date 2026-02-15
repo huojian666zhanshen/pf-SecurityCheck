@@ -28,7 +28,7 @@ pip install -r requirements.txt
 运行应用
 在本地运行 FastAPI 应用：
 
-uvicorn security_check_service:app --reload
+uvicorn app:app --reload
 访问应用界面：<http://127.0.0.1:8000>
 
 您也可以直接访问https://sec.gridgpt.dev来使用API
