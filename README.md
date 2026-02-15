@@ -17,7 +17,7 @@
 
 ```bash
 # 克隆该仓库
-git clone <your-repository-url>
+git clone <https://github.com/huojian666zhanshen/pf-SecurityCheck.git>
 
 # 创建并激活虚拟环境
 python -m venv venv
