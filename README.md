@@ -31,7 +31,7 @@ pip install -r requirements.txt
 uvicorn app:app --reload
 访问应用界面：<http://127.0.0.1:8000>
 
-您也可以直接访问https://sec.gridgpt.dev来使用API
+您也可以直接访问https://sec.gridgpt.dev/docs来使用API
 
 
 ```
